@@ -114,5 +114,4 @@ $
 
 ## AUTHORS
  
-* **Boumaiza Kais** - [Boumaiza-kais](https://github.com/Boumaiza-kais)
-* **Lafine Sami** - [afinesami](https://github.com/afinesami)
+* **Faith Ikhidero** - [Faitholo](https://github.com/Faitholo)
